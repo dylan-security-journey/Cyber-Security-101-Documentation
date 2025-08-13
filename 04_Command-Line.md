@@ -27,3 +27,5 @@ moving across directories to find a flag using type
 finding running processes associated with tasklist of certain elements
 
 we could also kill task through (taskill /PID ___) 
+
+you can use several different shutdown methods like (shutdown /r) to restart or (shutdown /a) to abort 
