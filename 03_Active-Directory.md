@@ -41,3 +41,66 @@ Group Policy Objects are assigned to OUs to set rules and GPM can help change th
 
 this can be applied to desired computer for automatic updates from the GPO
 
+<img width="781" height="556" alt="image" src="https://github.com/user-attachments/assets/6efcb295-4c16-40a3-b222-1625ae1858e6" />
+
+creating a policy for device inactivity leads to lock screen after 300 seconds
+
+<img width="603" height="178" alt="image" src="https://github.com/user-attachments/assets/304f3148-7e85-44c7-a67f-056b03b38e5a" />
+
+Example of effect of applying GPO to prohibit access of control panel 
+
+SYSVOL is the network that distributes GPOs across computers
+
+<img width="1042" height="361" alt="image" src="https://github.com/user-attachments/assets/2378e624-d386-41d4-9477-8ee73237a604" />
+
+<img width="1042" height="409" alt="image" src="https://github.com/user-attachments/assets/779896ed-3218-4282-9d4d-44f2f9fce84d" />
+
+<img width="1027" height="311" alt="image" src="https://github.com/user-attachments/assets/8f8028d5-b5fc-4ced-a012-050e3fdd983c" />
+
+Kerberos Authentication above
+
+<img width="1034" height="517" alt="image" src="https://github.com/user-attachments/assets/a5a350b1-fda6-4cff-8f9e-eb903f5ae640" />
+
+NetNTLM Authentication above
+
+<img width="937" height="599" alt="image" src="https://github.com/user-attachments/assets/a4d8d11e-48c8-428a-b6fd-c2ab313cdfff" />
+
+Each country has their own domain controller when it comes to scalability
+
+<img width="993" height="405" alt="image" src="https://github.com/user-attachments/assets/82df4fbf-a158-481a-b957-31ad86ee74b3" />
+
+Forest occurs when domains join 
+
+<img width="616" height="265" alt="image" src="https://github.com/user-attachments/assets/4b70ce27-e289-44b2-8912-3bb7f4e1b2c4" />
+
+one-way trust relationship
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
