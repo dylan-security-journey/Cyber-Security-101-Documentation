@@ -25,3 +25,6 @@ Sometimes in order to delete an OU, you must change view to advanced features an
 
 Delegate control to philip over an OU
 
+<img width="1060" height="256" alt="image" src="https://github.com/user-attachments/assets/85114afb-c5a9-4887-a87b-1a8b9d7e670a" />
+
+logged in as a user that we delegated changing the password of another user account in a different OU
