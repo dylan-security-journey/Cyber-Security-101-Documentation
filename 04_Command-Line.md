@@ -52,3 +52,32 @@ Get-Content is similar to type and also Get-Childitem helps display content of f
 
 <img width="934" height="214" alt="image" src="https://github.com/user-attachments/assets/d98e7aac-7fad-4614-801e-fbff38f77190" />
 
+<img width="609" height="317" alt="image" src="https://github.com/user-attachments/assets/65fec2d3-de9e-496a-bcf2-d2bda79236e0" />
+
+List all local user accounts
+
+<img width="602" height="280" alt="image" src="https://github.com/user-attachments/assets/4a72bbcd-629a-4104-a9ed-e368c1add53d" />
+
+<img width="981" height="181" alt="image" src="https://github.com/user-attachments/assets/1a2ae3fa-3f10-45fc-98d4-98defc305fd2" />
+
+<img width="1106" height="545" alt="image" src="https://github.com/user-attachments/assets/1d6c21c5-a40b-4768-9f3b-61d283700a4e" />
+
+Invoke-Command helps with remote management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
