@@ -72,7 +72,19 @@ ls = list down contents, gerp heps find specific words in file
 
 history command will show all commands executed during session
 
+<img width="332" height="140" alt="image" src="https://github.com/user-attachments/assets/fa8cab50-f08b-4ed0-8ad6-cd6a6539bc4f" />
 
+<img width="421" height="142" alt="image" src="https://github.com/user-attachments/assets/74cacf59-300b-4502-bd19-64af684b88b7" />
+
+Making my first script above
+
+<img width="351" height="183" alt="image" src="https://github.com/user-attachments/assets/d749edc4-3301-4031-bb9a-c980f9bd6948" />
+
+Using loop in bash
+
+<img width="499" height="166" alt="image" src="https://github.com/user-attachments/assets/0ebc5abb-e917-4dae-86f0-e813784fcb24" />
+
+first bash conditional statement
 
 
 
