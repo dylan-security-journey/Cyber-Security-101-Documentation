@@ -68,6 +68,9 @@ Bash is the default shell (Bourne Again Shell)
 
 ls = list down contents, gerp heps find specific words in file
 
+<img width="1111" height="592" alt="image" src="https://github.com/user-attachments/assets/ece6c58a-e34a-4f4f-a7ce-1662cb93b21c" />
+
+history command will show all commands executed during session
 
 
 
