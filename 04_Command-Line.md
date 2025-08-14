@@ -32,15 +32,23 @@ you can use several different shutdown methods like (shutdown /r) to restart or 
 
 Powershell allows for more objects to retain properties and methods (data manipulation)
 
+In powershell it's denoted by action verb then noun like (Get-Command)
 
+Also using (Get-Help) before any function can help understand the parameters needed
 
+<img width="961" height="381" alt="image" src="https://github.com/user-attachments/assets/9ac9006d-e69b-464e-9a84-ce359212d49d" />
 
+to filter command name (Get-Command -Name Remove*)
 
+This will help with finding out how to use the command for new-localuser (Get-Help New-LocalUser -examples)
 
+<img width="1114" height="417" alt="image" src="https://github.com/user-attachments/assets/0a09befe-60ff-4957-8092-7b8a1f47a212" />
 
+<img width="929" height="109" alt="image" src="https://github.com/user-attachments/assets/9f1f430a-eb6a-49ae-8e83-2db9798da1c1" />
 
+Get-Content is similar to type and also Get-Childitem helps display content of files and directories
 
+<img width="944" height="297" alt="image" src="https://github.com/user-attachments/assets/02f50736-2de4-45fd-96a0-582ad8790fa9" />
 
-
-
+<img width="934" height="214" alt="image" src="https://github.com/user-attachments/assets/d98e7aac-7fad-4614-801e-fbff38f77190" />
 
