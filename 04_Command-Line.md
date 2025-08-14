@@ -64,6 +64,10 @@ List all local user accounts
 
 Invoke-Command helps with remote management
 
+Bash is the default shell (Bourne Again Shell)
+
+ls = list down contents, gerp heps find specific words in file
+
 
 
 
