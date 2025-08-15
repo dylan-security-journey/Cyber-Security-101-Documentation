@@ -130,9 +130,17 @@ TLS offers encryption for HTTP
 
 Highlighted 1 and 2 show the establishment packets it took for HTTP (negotiation)
 
+<img width="1079" height="615" alt="image" src="https://github.com/user-attachments/assets/c232c88b-1862-4f97-836b-ae8e2dc639f5" />
 
+<img width="1055" height="657" alt="image" src="https://github.com/user-attachments/assets/5e861b80-7987-4521-aef3-f2d6c04f6e25" />
 
+An S is represented after protocol to represent "Secure", different port numbers assigned for secure and unsecure
 
+For example IMAP can extract login credentials because it's not secure like IMAPS (993)
+
+telnet puts data at risk due to clear text but SSH is better method
+
+OpenSSH is open-source shell port 22
 
 
 
