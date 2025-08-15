@@ -142,6 +142,7 @@ telnet puts data at risk due to clear text but SSH is better method
 
 OpenSSH is open-source shell port 22
 
+<img width="1599" height="1073" alt="image" src="https://github.com/user-attachments/assets/5e04b46a-3bad-444d-99e4-9696b5656339" />
 
 
 
