@@ -118,7 +118,17 @@ using fetch # data item name[]
 
 <img width="822" height="557" alt="image" src="https://github.com/user-attachments/assets/a63d640c-c8d7-401a-92d6-83a42e7a6485" />
 
+TLS (Transport Layer Security) was built upon SSL (Secure Socket Layer)
 
+self-signed certificate should not authenticate a server 
+
+<img width="2172" height="391" alt="image" src="https://github.com/user-attachments/assets/bcc3aeba-2c73-42eb-b630-f6d9bbeb5470" />
+
+TLS offers encryption for HTTP
+
+<img width="1816" height="726" alt="image" src="https://github.com/user-attachments/assets/5922c664-2a97-429d-8a47-2c416accff89" />
+
+Highlighted 1 and 2 show the establishment packets it took for HTTP (negotiation)
 
 
 
