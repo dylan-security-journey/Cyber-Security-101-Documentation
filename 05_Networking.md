@@ -154,6 +154,83 @@ looking through traffic for login
 
 <img width="1280" height="1167" alt="image" src="https://github.com/user-attachments/assets/59f178d5-f353-4e76-83d2-a9a6d866b20e" />
 
+Wireshark is used to investigate packets, used for detecting and not modifying packets
+
+<img width="1134" height="961" alt="image" src="https://github.com/user-attachments/assets/6cf21063-32b0-463d-b514-5ac23998518e" />
+
+<img width="1139" height="865" alt="image" src="https://github.com/user-attachments/assets/ae140936-8aac-49fc-a9c2-3fb8b17daa71" />
+
+<img width="600" height="571" alt="image" src="https://github.com/user-attachments/assets/f1ad0aaf-3bbf-4dfa-8cba-62b6ed40b728" />
+
+Coloring rules for packets shown above
+
+<img width="1182" height="880" alt="image" src="https://github.com/user-attachments/assets/cf23b997-6910-413e-aa36-ec8eea1810a2" />
+
+Ability to merge files
+
+<img width="637" height="784" alt="image" src="https://github.com/user-attachments/assets/09cfa42f-0e7b-4766-9196-278d7a46d5fd" />
+
+Checking the capture file comments helps understand history of file
+
+<img width="1082" height="1048" alt="image" src="https://github.com/user-attachments/assets/d370429d-1cda-40aa-81b1-e2c4f55cf308" />
+
+<img width="1072" height="1245" alt="image" src="https://github.com/user-attachments/assets/c566f619-b272-42b5-bd30-f01cf2916524" />
+
+OSI model in action within wireshark breakdown
+
+TTL: Time to Live is under layer 3
+
+payload under TCP
+
+<img width="963" height="563" alt="image" src="https://github.com/user-attachments/assets/8c4970c1-09de-4809-b060-a49820ae6e11" />
+
+quick navigation across packets
+
+<img width="1138" height="581" alt="image" src="https://github.com/user-attachments/assets/1bb8151c-b0a2-4a51-a542-92871505f09a" />
+
+quick search within packets
+
+<img width="1124" height="1263" alt="image" src="https://github.com/user-attachments/assets/38d6db21-9028-413a-b9b8-13b759dc56d7" />
+
+<img width="1122" height="1195" alt="image" src="https://github.com/user-attachments/assets/10a1442d-9c6e-4486-85a4-9a146726a401" />
+
+<img width="1297" height="765" alt="image" src="https://github.com/user-attachments/assets/418babd9-f015-4bb5-8760-7877a6b92c80" />
+
+Several features to export, mark-up, change viewing panel
+
+<img width="1155" height="662" alt="image" src="https://github.com/user-attachments/assets/5442c992-ae62-4b53-9ac0-804b4bf7839b" />
+
+<img width="576" height="135" alt="image" src="https://github.com/user-attachments/assets/d5979fab-9d51-41e1-8345-8ed45b8556af" />
+
+Exported a packet above and went into terminal using (md5sum) to find key message
+
+<img width="1323" height="1122" alt="image" src="https://github.com/user-attachments/assets/3186c24f-d478-4853-a63b-79687d04d7da" />
+
+<img width="1140" height="1164" alt="image" src="https://github.com/user-attachments/assets/4a0e6cb6-71a4-4df8-9ac2-7e15864e9a14" />
+
+<img width="1152" height="1138" alt="image" src="https://github.com/user-attachments/assets/764fb0cc-4c08-4494-bd7f-c13958ff96ba" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
