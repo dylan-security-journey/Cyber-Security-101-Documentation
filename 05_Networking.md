@@ -218,16 +218,35 @@ Exported a packet above and went into terminal using (md5sum) to find key messag
 
 Usage of find button within a byte
 
+tcpdump has it's library as libpcap
 
+<img width="1091" height="483" alt="image" src="https://github.com/user-attachments/assets/3336a2fb-4914-47eb-926a-0d289e8b074a" />
 
+to display address in numeric use (-n)
 
+<img width="1116" height="367" alt="image" src="https://github.com/user-attachments/assets/b0c86769-6083-432a-a219-edd2051270eb" />
 
+In the image above captured packets from specific domain and saced to pcap
 
+<img width="977" height="502" alt="image" src="https://github.com/user-attachments/assets/a2431f85-9013-47b1-8791-623051086780" />
 
+<img width="709" height="100" alt="image" src="https://github.com/user-attachments/assets/4a804626-8d18-41ac-ad16-3307ed725d15" />
 
+<img width="1304" height="212" alt="image" src="https://github.com/user-attachments/assets/892474bf-0092-47e5-89cf-eeb50bcc845a" />
 
+In image above discovering number of packets with wc and also discovering IP based off MAC and followed through with finding first DNS
 
+<img width="1153" height="1014" alt="image" src="https://github.com/user-attachments/assets/a080fff6-9351-4e04-998c-e179a04be2a2" />
 
+<img width="1154" height="163" alt="image" src="https://github.com/user-attachments/assets/597fcfec-cddc-41f4-bc6f-b74469f40226" />
+
+<img width="1136" height="500" alt="image" src="https://github.com/user-attachments/assets/1a1273ed-9c8c-494d-b770-71359b02117e" />
+
+<img width="1116" height="206" alt="image" src="https://github.com/user-attachments/assets/54047d49-638e-4765-a250-b4548fadda4d" />
+
+<img width="1100" height="375" alt="image" src="https://github.com/user-attachments/assets/94a4bee2-dd88-40b4-ba62-5972f1b3273e" />
+
+<img width="1039" height="266" alt="image" src="https://github.com/user-attachments/assets/c2773f96-aaa0-4e51-8dc5-e090759d9c5e" />
 
 
 
