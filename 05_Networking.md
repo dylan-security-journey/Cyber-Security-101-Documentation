@@ -210,9 +210,13 @@ Exported a packet above and went into terminal using (md5sum) to find key messag
 
 <img width="1152" height="1138" alt="image" src="https://github.com/user-attachments/assets/764fb0cc-4c08-4494-bd7f-c13958ff96ba" />
 
+<img width="1145" height="952" alt="image" src="https://github.com/user-attachments/assets/886ca7ee-e7ce-46da-9d2a-82492114a31c" />
 
+<img width="1130" height="1236" alt="image" src="https://github.com/user-attachments/assets/1be51fc5-569f-4ab4-9141-ac8d1e63c9e0" />
 
+<img width="1323" height="535" alt="image" src="https://github.com/user-attachments/assets/a8b6d8cd-0aca-4b84-895f-f1383d7e68c0" />
 
+Usage of find button within a byte
 
 
 
