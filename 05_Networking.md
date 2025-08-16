@@ -144,9 +144,15 @@ OpenSSH is open-source shell port 22
 
 <img width="1599" height="1073" alt="image" src="https://github.com/user-attachments/assets/5e04b46a-3bad-444d-99e4-9696b5656339" />
 
+<img width="1188" height="712" alt="image" src="https://github.com/user-attachments/assets/d99a6aee-b126-471f-bb11-5b22c439b3c7" />
 
+decrypting the traffic above
 
+<img width="1163" height="167" alt="image" src="https://github.com/user-attachments/assets/2a0e9982-ccc9-4dbc-8c22-68370ea65372" />
 
+looking through traffic for login
+
+<img width="1280" height="1167" alt="image" src="https://github.com/user-attachments/assets/59f178d5-f353-4e76-83d2-a9a6d866b20e" />
 
 
 
