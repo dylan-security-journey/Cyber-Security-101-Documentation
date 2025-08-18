@@ -262,7 +262,9 @@ In image above discovering number of packets with wc and also discovering IP bas
 
 screenshot above shows quick access to see which ports are open 
 
+s<img width="1145" height="1176" alt="image" src="https://github.com/user-attachments/assets/1a742b1e-c63c-4a93-ac35-15461d299259" />
 
+<img width="625" height="314" alt="image" src="https://github.com/user-attachments/assets/9b5090ea-faea-43fd-ae70-aab97d9381c4" />
 
 
 
