@@ -248,12 +248,19 @@ In image above discovering number of packets with wc and also discovering IP bas
 
 <img width="1039" height="266" alt="image" src="https://github.com/user-attachments/assets/c2773f96-aaa0-4e51-8dc5-e090759d9c5e" />
 
+<img width="676" height="439" alt="image" src="https://github.com/user-attachments/assets/6e5406c2-5cd0-4617-8565-78f85e2dde74" />
 
+<img width="676" height="101" alt="image" src="https://github.com/user-attachments/assets/582d4505-85f3-4696-ac96-553ba2633730" />
 
+(-sn) shows how many hosts are up vs (-sL) gives us a list of ip
 
+<img width="1161" height="931" alt="image" src="https://github.com/user-attachments/assets/cd147357-e014-4a04-b3ce-74efe64238ab" />
 
+<img width="1141" height="625" alt="image" src="https://github.com/user-attachments/assets/ddc1714d-e260-4153-8127-a371bd092576" />
 
+<img width="625" height="269" alt="image" src="https://github.com/user-attachments/assets/e79b4b2d-44e3-43d4-926f-8d2238342f08" />
 
+screenshot above shows quick access to see which ports are open 
 
 
 
