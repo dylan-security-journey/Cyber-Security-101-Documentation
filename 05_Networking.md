@@ -268,8 +268,30 @@ s<img width="1145" height="1176" alt="image" src="https://github.com/user-attach
 
 <img width="1254" height="408" alt="image" src="https://github.com/user-attachments/assets/1a472214-8069-4df4-b950-d1adae1547e6" />
 
+<img width="901" height="530" alt="image" src="https://github.com/user-attachments/assets/c47c9ed1-fa31-4c2c-8b9a-312850ff65cc" />
+
 <img width="1254" height="408" alt="image" src="https://github.com/user-attachments/assets/6e7de18f-e383-4b7e-98b1-d5edda675051" />
 
 finding the exact version with (-sV)
+
+<img width="1023" height="669" alt="image" src="https://github.com/user-attachments/assets/6e1a2304-2967-44a6-8a41-8956ce55897a" />
+
+<img width="1157" height="611" alt="image" src="https://github.com/user-attachments/assets/6f9b3812-d343-4359-a513-7246928d9152" />
+
+<img width="1242" height="1005" alt="image" src="https://github.com/user-attachments/assets/154d2b52-d857-4906-9967-77d29d4af30d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
