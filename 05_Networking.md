@@ -266,8 +266,10 @@ s<img width="1145" height="1176" alt="image" src="https://github.com/user-attach
 
 <img width="625" height="314" alt="image" src="https://github.com/user-attachments/assets/9b5090ea-faea-43fd-ae70-aab97d9381c4" />
 
+<img width="1254" height="408" alt="image" src="https://github.com/user-attachments/assets/1a472214-8069-4df4-b950-d1adae1547e6" />
 
+<img width="1254" height="408" alt="image" src="https://github.com/user-attachments/assets/6e7de18f-e383-4b7e-98b1-d5edda675051" />
 
-
+finding the exact version with (-sV)
 
 
