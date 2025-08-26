@@ -54,4 +54,47 @@ Encryption of hashes above not messages
 
 Importing the key then decrypting the message with gpg (GNU Privacy Guard)
 
+Hashes help compare documents by comparing the hashes (verb and noun)
+
+Hashes are different from encryption (one-way trip)
+
+<img width="477" height="65" alt="image" src="https://github.com/user-attachments/assets/c659ea52-e068-4b2c-8cd0-ae8a25b9cf75" />
+
+<img width="1097" height="292" alt="image" src="https://github.com/user-attachments/assets/63bdff41-ff67-4ba1-9926-00209bb65145" />
+
+Larger the has the more secure it is, hashing collision occurs when using the same hash
+
+<img width="1007" height="57" alt="image" src="https://github.com/user-attachments/assets/d0a0c3bb-0551-443d-9f53-4cc1726b6784" />
+
+<img width="1154" height="780" alt="image" src="https://github.com/user-attachments/assets/d83266be-aad0-47bd-99d9-19edd289198e" />
+
+Salt can be added to passwords to add more protection
+
+Encrypting passwords is complex and takes awhile
+
+<img width="1264" height="610" alt="image" src="https://github.com/user-attachments/assets/413d44c7-7194-49af-bcd5-aa2d507da394" />
+
+Shadow file contains password information
+
+<img width="1274" height="336" alt="image" src="https://github.com/user-attachments/assets/0d4024bc-4cec-4e4c-95fd-19137d524e3a" />
+
+<img width="1479" height="561" alt="image" src="https://github.com/user-attachments/assets/5be6b08e-1a0e-4712-8676-f35e152935f3" />
+
+<img width="1271" height="1095" alt="image" src="https://github.com/user-attachments/assets/74c96cc2-b7e8-424a-84ae-8ff334fbd121" />
+
+<img width="1174" height="36" alt="image" src="https://github.com/user-attachments/assets/cc2182cf-63cf-4a6e-86c7-b86a12767401" />
+
+base64 basically changes the languages
+
+
+
+
+
+
+
+
+
+
+
+
 
