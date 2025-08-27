@@ -1,11 +1,36 @@
-## Search Engines
+## Search Engines & Security Research
 
-Always making sure your sources are credible and seeing what the objective and consistency among other sources agreeing upon same evidence
+---
 
-In linux (ss) replaces netstat, and a bogus crptographic method is considered snake oil
+### 1. Credible Sources
+- Always ensure sources are **credible**.  
+- Look for **consistency and agreement** across multiple independent sources.  
+- Evaluate the **objective** behind the information (bias vs factual evidence).  
 
-you can limit file type search like this (filetype:pdf cyber warfare report) and also using the (-) sign to discard certain search results or "" to find exact phrases or using sites in the search
+---
 
-ss- socket statistics in linux
+### 2. Search Engine Operators & Techniques
+- **Exact Phrase Search**: Use quotes `" "` → `"cyber warfare report"`.  
+- **File Type Filter**: `filetype:pdf cyber warfare report`.  
+- **Exclude Results**: Use minus sign `-` → `cybersecurity -jobs`.  
+- **Site-Specific Search**: `site:.gov cyber policy`.  
 
-CVE (Common Vulnerabilities and Exposures) are a dictionary of vulnerabilities, standardized identifier
+---
+
+### 3. Linux Tools for Networking
+- **ss (socket statistics)**  
+  - Modern replacement for `netstat`.  
+  - Displays socket and connection info.  
+
+---
+
+### 4. Cryptography Caution
+- Beware of **snake oil cryptography** → bogus or unproven cryptographic methods marketed as secure without real validation.  
+
+---
+
+### 5. Vulnerability Databases
+- **CVE (Common Vulnerabilities and Exposures)**  
+  - A **dictionary of publicly known vulnerabilities**.  
+  - Provides a **standardized identifier** for each vulnerability.  
+  - Used globally in security advisories, scanners, and patch management.  
