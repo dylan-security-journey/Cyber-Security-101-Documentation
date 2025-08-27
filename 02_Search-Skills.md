@@ -33,4 +33,10 @@
 - **CVE (Common Vulnerabilities and Exposures)**  
   - A **dictionary of publicly known vulnerabilities**.  
   - Provides a **standardized identifier** for each vulnerability.  
+  - Used globally in security advisories, scanners, and patch management. 
+
+### 5. Vulnerability Databases
+- **CVE (Common Vulnerabilities and Exposures)**  
+  - A **dictionary of publicly known vulnerabilities**.  
+  - Provides a **standardized identifier** for each vulnerability.  
   - Used globally in security advisories, scanners, and patch management.  
