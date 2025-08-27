@@ -96,9 +96,13 @@ Dictionary Attack used by John the Ripper to compare hashes
 
 <img width="1458" height="210" alt="image" src="https://github.com/user-attachments/assets/87be3360-9bae-4e7a-85cd-e45b715839ce" />
 
+<img width="1163" height="541" alt="image" src="https://github.com/user-attachments/assets/3ecab152-343e-4d64-be7e-af7027fbbc89" />
 
+<img width="1422" height="1259" alt="image" src="https://github.com/user-attachments/assets/08eafa17-4230-4603-a6a1-99cc037631ea" />
 
+<img width="1155" height="340" alt="image" src="https://github.com/user-attachments/assets/ccc738f9-b145-4742-b75e-33cea07be6aa" />
 
+<img width="1357" height="344" alt="image" src="https://github.com/user-attachments/assets/bf4da805-ac1b-4335-afa7-66d587e1f806" />
 
 
 
