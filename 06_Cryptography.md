@@ -86,9 +86,15 @@ Shadow file contains password information
 
 base64 basically changes the languages
 
+<img width="1271" height="356" alt="image" src="https://github.com/user-attachments/assets/e8c89db2-fd0e-4184-a359-f1f079b98574" />
 
+Dictionary Attack used by John the Ripper to compare hashes
 
+<img width="1153" height="418" alt="image" src="https://github.com/user-attachments/assets/8a14355f-ea53-4916-8af9-14dfd1d65152" />
 
+<img width="1177" height="718" alt="image" src="https://github.com/user-attachments/assets/53a8ee2b-905f-447c-b8cf-a2f30b216f19" />
+
+<img width="1458" height="210" alt="image" src="https://github.com/user-attachments/assets/87be3360-9bae-4e7a-85cd-e45b715839ce" />
 
 
 
