@@ -7,7 +7,7 @@
 - **Domain Controller (DC)**: Server in charge of managing AD.  
 - Provides **centralized control** for authentication, authorization, and policies.  
 
-![Active Directory Overview](https://github.com/user-attachments/assets/0ee68bcc-2392-4807-aee7-6f82dec1611e)
+<img src="https://github.com/user-attachments/assets/0ee68bcc-2392-4807-aee7-6f82dec1611e" width="600" />
 
 ---
 
@@ -16,7 +16,7 @@
 - **Users**: Belong to one OU at a time (policies are applied per OU).  
 - **Security Groups**: Users can belong to many groups (to access multiple resources).  
 
-![OUs Example](https://github.com/user-attachments/assets/6f8c8478-b258-4362-80f9-abde13b25a8c)
+<img src="https://github.com/user-attachments/assets/6f8c8478-b258-4362-80f9-abde13b25a8c" width="600" />
 
 ---
 
@@ -30,8 +30,8 @@
   - Control can be delegated to specific users for OUs.  
   - Example: Delegating Philip password reset permissions.  
 
-![Delegated Control](https://github.com/user-attachments/assets/85114afb-c5a9-4887-a87b-1a8b9d7e670a)  
-![Delegated User Reset](https://github.com/user-attachments/assets/96f8977c-4263-4f3f-945c-5c053762bdfd)
+<img src="https://github.com/user-attachments/assets/85114afb-c5a9-4887-a87b-1a8b9d7e670a" width="600" />  
+<img src="https://github.com/user-attachments/assets/96f8977c-4263-4f3f-945c-5c053762bdfd" width="600" />
 
 ---
 
@@ -45,9 +45,9 @@
   - Restrict access to Control Panel.  
 - **SYSVOL**: Network share that distributes GPOs across domain controllers.  
 
-![GPO Example](https://github.com/user-attachments/assets/6efcb295-4c16-40a3-b222-1625ae1858e6)  
-![Policy Applied](https://github.com/user-attachments/assets/304f3148-7e85-44c7-a67f-056b03b38e5a)  
-![SYSVOL](https://github.com/user-attachments/assets/2378e624-d386-41d4-9477-8ee73237a604)
+<img src="https://github.com/user-attachments/assets/6efcb295-4c16-40a3-b222-1625ae1858e6" width="600" />  
+<img src="https://github.com/user-attachments/assets/304f3148-7e85-44c7-a67f-056b03b38e5a" width="600" />  
+<img src="https://github.com/user-attachments/assets/2378e624-d386-41d4-9477-8ee73237a604" width="600" />
 
 ---
 
@@ -56,13 +56,13 @@
   - Ticket-based authentication system.  
   - Default and more secure in Windows domains.  
 
-![Kerberos](https://github.com/user-attachments/assets/a5a350b1-fda6-4cff-8f9e-eb903f5ae640)
+<img src="https://github.com/user-attachments/assets/a5a350b1-fda6-4cff-8f9e-eb903f5ae640" width="600" />
 
 - **NetNTLM Authentication**  
   - Challenge-response protocol.  
   - Older, less secure, but still supported in some environments.  
 
-![NetNTLM](https://github.com/user-attachments/assets/a4d8d11e-48c8-428a-b6fd-c2ab313cdfff)
+<img src="https://github.com/user-attachments/assets/a4d8d11e-48c8-428a-b6fd-c2ab313cdfff" width="600" />
 
 ---
 
@@ -72,8 +72,8 @@
 - **Trust Relationships**: Define how domains interact.  
   - Example: **One-Way Trust** → one domain trusts another, but not vice versa.  
 
-![Multiple DCs](https://github.com/user-attachments/assets/82df4fbf-a158-481a-b957-31ad86ee74b3)  
-![Forest Example](https://github.com/user-attachments/assets/4b70ce27-e289-44b2-8912-3bb7f4e1b2c4)  
+<img src="https://github.com/user-attachments/assets/82df4fbf-a158-481a-b957-31ad86ee74b3" width="600" />  
+<img src="https://github.com/user-attachments/assets/4b70ce27-e289-44b2-8912-3bb7f4e1b2c4" width="600" />
 
 ---
 
@@ -82,7 +82,7 @@
 - Apply policies at the OU level for **granular control**.  
 - Regularly **tidy up AD structure** for scalability and clarity.  
 
-![AD Cleanup](https://github.com/user-attachments/assets/3999f6d6-2a23-4181-9093-84a741ca36ce)
+<img src="https://github.com/user-attachments/assets/3999f6d6-2a23-4181-9093-84a741ca36ce" width="600" />
 
 
 
