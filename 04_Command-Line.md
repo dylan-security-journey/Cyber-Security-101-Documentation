@@ -17,13 +17,13 @@ Linux → **Bash** (Bourne Again Shell)
 - `ver` → Displays OS version.  
 - `systeminfo` → Shows detailed system info.  
 
-![System Info](https://github.com/user-attachments/assets/30e85dc4-b657-401e-a072-c21ccd3cd4c4)
+<img src="https://github.com/user-attachments/assets/30e85dc4-b657-401e-a072-c21ccd3cd4c4" width="600" />
 
 ### Networking
 - `netstat` → Shows port connections.  
 - `ipconfig` → Displays IP address/configuration.  
 
-![Netstat Example](https://github.com/user-attachments/assets/9753b0b8-c56b-4e47-8a13-f573837798cb)
+<img src="https://github.com/user-attachments/assets/9753b0b8-c56b-4e47-8a13-f573837798cb" width="600" />
 
 ### File & Directory Management
 - `cd` → Change directory.  
@@ -33,8 +33,8 @@ Linux → **Bash** (Bourne Again Shell)
 - `copy` → Copy files.  
 - `del` → Delete files.  
 
-![Directory Navigation](https://github.com/user-attachments/assets/e6d95353-b456-4841-bcd0-a526245aa26f)  
-![Move/Copy/Delete](https://github.com/user-attachments/assets/a935cb68-dc35-4fbb-a36f-80d813331236)
+<img src="https://github.com/user-attachments/assets/e6d95353-b456-4841-bcd0-a526245aa26f" width="600" />  
+<img src="https://github.com/user-attachments/assets/a935cb68-dc35-4fbb-a36f-80d813331236" width="600" />
 
 ### Process Management
 - `tasklist` → List running processes.  
@@ -57,7 +57,7 @@ Examples:
 - `Get-Help <command>` → Show help & parameters.  
 - `Get-Help New-LocalUser -Examples` → Usage examples.  
 
-![Get-Help Example](https://github.com/user-attachments/assets/0a09befe-60ff-4957-8092-7b8a1f47a212)
+<img src="https://github.com/user-attachments/assets/0a09befe-60ff-4957-8092-7b8a1f47a212" width="600" />
 
 ### Common Commands
 - `Get-Command -Name Remove*` → Filter commands by name.  
@@ -65,7 +65,7 @@ Examples:
 - `Get-ChildItem` → List files/directories (like `ls`).  
 - `Get-LocalUser` → List all local user accounts.  
 
-![Local User List](https://github.com/user-attachments/assets/4a72bbcd-629a-4104-a9ed-e368c1add53d)
+<img src="https://github.com/user-attachments/assets/4a72bbcd-629a-4104-a9ed-e368c1add53d" width="600" />
 
 ### Remote Management
 - `Invoke-Command` → Run commands on remote systems.  
@@ -80,11 +80,11 @@ Examples:
 - `grep` → Search for keywords in files.  
 - `history` → Show all executed commands.  
 
-![History Example](https://github.com/user-attachments/assets/fa8cab50-f08b-4ed0-8ad6-cd6a6539bc4f)
+<img src="https://github.com/user-attachments/assets/fa8cab50-f08b-4ed0-8ad6-cd6a6539bc4f" width="600" />
 
 ### Scripting
 - **First Script** → Create `.sh` file and run.  
-- Loops:  
+- **Loops Example**:  
   ```bash
   for i in {1..5}; do
       echo "Number $i"
